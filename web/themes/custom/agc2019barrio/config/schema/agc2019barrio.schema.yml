@@ -1,0 +1,5 @@
+# Schema for the configuration files of the Bootstrap SASS Subtheme.
+
+agc2019barrio.settings:
+  type: theme_settings
+  label: 'AGC 2019 Barrio settings'
